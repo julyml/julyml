@@ -21,6 +21,6 @@ Learning and Side projects
 - Following a habit to learn a bit everday, for this is year I'm learning more about ML and MLOps
 - Refreshing my knowlegde in data structures and algorithms with Java
 - Doing a lot of amazing trainings to improve my hard and softskills  
-- Learning Japanese
+- Learning Japanese and Dutch
 - And cooking a lot of vegan food 🌱
 
