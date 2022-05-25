@@ -5,7 +5,7 @@ I'm a Brazilian Data Engineer living in the Netherlands since 2021.
 Currently, I work as a Data Engineer at [Blue Harvest](https://blueharvest.io/).
 
 Previously, I worked as a Data Engineer at [Vitta](https://www.vitta.com.br/)([STNE](https://www.nasdaq.com/market-activity/stocks/stne)) and PagSeguro([PAGS](https://www.nasdaq.com/market-activity/stocks/pags)).
-And I also worked as a intern data engineer at [B3](https://www.b3.com.br/en_us/) and [DP6](https://www.dp6.com.br/en/home-en/)
+And I also worked as a intern data engineer at [B3](https://www.bloomberg.com/quote/B3SA3:BZ) and [DP6](https://www.dp6.com.br/en/home-en/)
 
 Wanna have a word? Feel free to ping me on telegram https://t.me/julyml
 
