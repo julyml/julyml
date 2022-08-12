@@ -15,7 +15,7 @@ What I am focusing on at work
     
 Learning and Side projects
 
-- I am learning new functional languages, I already learn some Scala now I will learn more Go or Rust... dunno yet.
+- I am learning modern programming languages, I already learn some Scala this year and right now I am learning Go.
 - Following a habit to learn a bit everday, for this is year I'm learning more about ML and MLOps
 - Doing a lot of amazing trainings to improve my hard and softskills  
 - Learning Japanese
