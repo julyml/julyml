@@ -8,7 +8,7 @@ Between 2021 and 2023 I was living and working in the Netherlands. I worked in t
 
 Before that, I had worked in Vitta, PagSeguro and DP6 always as a data engineer.
 
-Wanna have a word? Feel free to ping me on telegram https://t.me/julyml
+Wanna have a word? Feel free to ping me on my email: julymarianalima@usp.br
 
 What I am focusing on at work
 
